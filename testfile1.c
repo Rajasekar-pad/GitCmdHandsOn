@@ -2,4 +2,6 @@
 
 void main()
 {
+	int k;
+	printf("%d",k);
 }
