@@ -1,5 +1,0 @@
-Test file 5 added to test squashing.
-int add(int x, int y)
-{
-	return (x+y);
-}
